@@ -1,0 +1,44 @@
+body{
+    margin: 20px;
+    font-family: Verdana, sans-serif;
+}
+
+.avatar{
+    width: 150px;
+    border: 5px solid #fed9cd;
+    
+}
+.back{
+    background-color: #ee521e;
+    border-radius: 75px;
+}
+span{
+    color: #ee521e;
+}
+#front{
+    color: #fed9cd;
+    background-color: #020404;
+    margin: 0 12px;
+    padding: 1px 0;
+}
+.para{
+    font-size: 30px;
+}
+
+.card{
+    padding: 20px;
+    display: flex;
+    justify-content: space-around;
+    width: 400px;
+    margin: 0px auto;
+    text-align: center;
+    background-color: rgb(155, 223, 250);
+    box-shadow: 5px 5px 1px #ee521e, 5px 5px 1px #020404 inset;
+
+}
+.detail{
+    padding: 2px ;
+}
+/* .border_blue{
+    border: 1px dotted blue;
+} */
